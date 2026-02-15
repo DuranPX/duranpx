@@ -1,13 +1,50 @@
 <h1 align="center">Hi, I'm Juan Duran</h1>
-<h3 align="center">A developer from Colombia, I am currently pursuing an Engineering degree at the University of Caldas.</h3>
+<h3 align="center">
+A developer from Colombia, currently pursuing an Engineering degree at the University of Caldas.
+</h3>
 
--  I’m currently learning **about Spring, Database like MongoDB and Oracle**
+<p align="center">
+I am passionate about writing light novels.
+</p>
 
--  All of my projects are available at [https://github.com/DuranPX](https://github.com/DuranPX)
+<hr>
 
--  How to reach me **duran.juan3030@gmail.com**
+<h3 align="left">Skills</h3>
+<ul>
+  <li>Frontend Development with Angular, React, HTML, CSS, Bootstrap</li>
+  <li>Backend Development with Java, Python, Flask</li>
+  <li>REST API consumption and testing</li>
+  <li>Basic database handling</li>
+</ul>
 
--  **I am passionate about writing light novels.**
+<h3 align="left">Currently Studying</h3>
+<ul>
+  <li>Spring Framework</li>
+  <li>Databases: MongoDB, Oracle</li>
+  <li>Node.js</li>
+  <li>Tailwind CSS</li>
+</ul>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p
+<h3 align="left">Programming Languages</h3>
+<ul>
+  <li>Java</li>
+  <li>Python</li>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
+</ul>
+
+<h3 align="left">Tools & Technologies</h3>
+<ul>
+  <li>Postman</li>
+  <li>Git & GitHub</li>
+</ul>
+
+<h3 align="left">Editing & Creative Tools</h3>
+<ul>
+  <li>Adobe Photoshop</li>
+</ul>
+
+<h3 align="left">Contact</h3>
+<ul>
+  <li>Email: duran.juan3030@gmail.com</li>
+</ul>
