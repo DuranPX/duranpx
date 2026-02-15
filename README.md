@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40" />, I'm Juan Duran</h1>
+<h1 align="center">Hi, I'm Juan Duran</h1>
 <h3 align="center">
 A developer from Colombia, currently pursuing an Engineering degree at the University of Caldas.
 </h3>
@@ -6,6 +6,7 @@ A developer from Colombia, currently pursuing an Engineering degree at the Unive
 <p align="center">
 I am passionate about writing light novels.
 </p>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3ByMnZicmh6YjRoZWFreHJheWJ3Z2E0azlvdjl2eDg1eng5N3I2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oCCpckAY9mHtCHr81l/giphy.gif" width="40" />
 
 <hr>
 
