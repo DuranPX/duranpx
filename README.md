@@ -51,7 +51,6 @@ I am passionate about writing light novels.
 <ul>
   <li>Adobe Photoshop</li>
   <li>Wondershare Filmora</li>
-  <li>CapCut</li>
 </ul>
 
 <h3 align="left">Contact</h3>
