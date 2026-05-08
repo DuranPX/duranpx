@@ -1,59 +1,105 @@
-<h1 align="center">Hi, I'm Juan Duran</h1>
-<h3 align="center">
-A developer from Colombia, currently pursuing an Engineering degree at the University of Caldas.
-</h3>
+
+<h1 align="center">Hi, I'm Juan Duran 👋</h1>
 
 <p align="center">
-I am passionate about writing light novels.
-</p>
-<br>
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3ByMnZicmh6YjRoZWFreHJheWJ3Z2E0azlvdjl2eDg1eng5N3I2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oCCpckAY9mHtCHr81l/giphy.gif" width="200" />
+Software engineering student from Colombia focused on frontend systems,
+interactive experiences and creative development.
 </p>
 
 <br>
 
-<hr>
+<table align="center">
+<tr>
+<td width="60%">
 
-<h3 align="left">Skills</h3>
-<ul>
-  <li>Frontend Development with Angular, React, HTML, CSS, Bootstrap</li>
-  <li>Backend Development with Java, Python</li>
-  <li>REST API consumption and testing</li>
-  <li>Basic database handling</li>
-</ul>
+### About Me
 
-<h3 align="left">Currently Studying</h3>
-<ul>
-  <li>Spring Framework</li>
-  <li>Databases: MongoDB, Oracle</li>
-  <li>Node.js</li>
-  <li>Tailwind CSS</li>
-  <li>Flask</li>
-</ul>
+- Engineering student at the University of Caldas
+- Interested in frontend architecture and interactive UI systems
+- Working on creative tools inspired by RPGs and Obsidian vaults
+- Interested in technical content, editing and UI analysis
+- Currently exploring scalable backend architectures and creative tooling
 
-<h3 align="left">Programming Languages</h3>
-<ul>
-  <li>Java</li>
-  <li>Python</li>
-  <li>JavaScript</li>
-  <li>TypeScript</li>
-</ul>
+### Current Focus
 
-<h3 align="left">Tools & Technologies</h3>
-<ul>
-  <li>Postman</li>
-  <li>GitHub</li>
-</ul>
+- React & Angular ecosystems
+- Node.js & Flask backends
+- MongoDB and relational databases
+- Interactive maps with Leaflet
+- Tailwind and modern UI systems
+- Creative/product-oriented development
 
-<h3 align="left">Editing & Creative Tools</h3>
-<ul>
-  <li>Adobe Photoshop</li>
-  <li>Wondershare Filmora</li>
-</ul>
+</td>
 
-<h3 align="left">Contact</h3>
-<ul>
-  <li>Email: duran.juan3030@gmail.com</li>
-</ul>
+<td width="40%" align="center">
+
+<img 
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3ByMnZicmh6YjRoZWFreHJheWJ3Z2E0azlvdjl2eDg1eng5N3I2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oCCpckAY9mHtCHr81l/giphy.gif" 
+width="250"
+/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,angular,ts,js,nodejs,python,flask,java,mongodb,mysql,tailwind,bootstrap,git,github,postman,vscode" />
+
+</p>
+
+---
+
+## Creative & Design Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=ps,figma" />
+
+</p>
+
+<p align="center">
+Video Editing • UI Experimentation • Creative Tooling • RPG-inspired Interfaces
+</p>
+
+---
+
+## Featured Interests
+
+-  Obsidian vault systems inspired by RPGs
+-  Frontend architecture and reusable components
+-  Interactive web experiences and game-inspired UI
+-  Writing and worldbuilding
+-  Technical content and frontend audits
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img 
+    height="160em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=DuranPX&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+  <img 
+    height="160em" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DuranPX&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+## Contact
+
+<p align="center">
+   duran.juan3030@gmail.com <br>
+  <a href="https://www.linkedin.com/in/DuranPX">LinkedIn</a>
+</p>
+
+<p align="center">
+  Future Portfolio • YouTube
+</p>
