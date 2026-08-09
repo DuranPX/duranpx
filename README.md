@@ -14,7 +14,7 @@ interactive experiences and creative development.
 
 ### About Me
 
-- Engineering student at the University of Caldas
+- Engineering student at the Caldas University
 - Interested in frontend architecture and interactive UI systems
 - Working on creative tools inspired by RPGs and Obsidian vaults
 - Interested in technical content, editing and UI analysis
@@ -76,28 +76,11 @@ Video Editing • UI Experimentation • Creative Tooling • RPG-inspired Inter
 -  Writing and worldbuilding
 -  Technical content and frontend audits
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img 
-    height="160em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=DuranPX&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-  <img 
-    height="160em" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DuranPX&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</p>
-
----
-
 ## Contact
 
 <p align="center">
    duran.juan3030@gmail.com <br>
-  <a href="https://www.linkedin.com/in/DuranPX">LinkedIn</a>
+  CLick To <a href="https://www.linkedin.com/in/DuranPX">LinkedIn</a>
 </p>
 
 <p align="center">
