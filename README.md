@@ -80,7 +80,7 @@ Video Editing • UI Experimentation • Creative Tooling • RPG-inspired Inter
 
 <p align="center">
    duran.juan3030@gmail.com <br>
-  CLick To <a href="https://www.linkedin.com/in/DuranPX">LinkedIn</a>
+  CLick to <a href="https://www.linkedin.com/in/DuranPX">LinkedIn</a>
 </p>
 
 <p align="center">
