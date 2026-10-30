@@ -1,24 +1,37 @@
 
-<h1 align="center">Hi, I'm Juan Duran 👋</h1>
+<h1 align="center">Juan Durán</h1>
 
 <p align="center">
-Software engineering student from Colombia focused on frontend systems,
-interactive experiences and creative development.
+  <b>Software Engineering Student &nbsp;·&nbsp; Frontend Systems &nbsp;·&nbsp; Creative Development</b>
 </p>
 
-<br>
+<p align="center">
+  Software engineering student from Colombia focused on frontend systems,<br>
+  interactive experiences and creative development.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/duranpx"><img src="https://img.shields.io/badge/LinkedIn-duranpx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:duran.juan3030@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Portfolio-Coming%20soon-6E7681?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio coming soon">
+</p>
+
+---
 
 <table align="center">
 <tr>
-<td width="60%">
+<td width="50%" valign="top">
 
 ### About Me
 
-- Engineering student at the Caldas University
+- Engineering student at Universidad de Caldas
 - Interested in frontend architecture and interactive UI systems
 - Working on creative tools inspired by RPGs and Obsidian vaults
 - Interested in technical content, editing and UI analysis
 - Currently exploring scalable backend architectures and creative tooling
+
+</td>
+<td width="50%" valign="top">
 
 ### Current Focus
 
@@ -27,16 +40,7 @@ interactive experiences and creative development.
 - MongoDB and relational databases
 - Interactive maps with Leaflet
 - Tailwind and modern UI systems
-- Creative/product-oriented development
-
-</td>
-
-<td width="40%" align="center">
-
-<img 
-src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3ByMnZicmh6YjRoZWFreHJheWJ3Z2E0azlvdjl2eDg1eng5N3I2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oCCpckAY9mHtCHr81l/giphy.gif" 
-width="250"
-/>
+- Creative and product-oriented development
 
 </td>
 </tr>
@@ -46,43 +50,51 @@ width="250"
 
 ## Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,angular,ts,js,nodejs,python,flask,java,mongodb,mysql,tailwind,bootstrap,git,github,postman,vscode" />
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=react,angular,ts,js,tailwind,bootstrap" alt="Frontend stack" />
 
-</p>
+**Backend & Databases**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,python,flask,java,mongodb,mysql" alt="Backend stack" />
+
+**Tools**<br>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Tools" />
+
+</div>
 
 ---
 
 ## Creative & Design Tools
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=ps,figma" />
+<img src="https://skillicons.dev/icons?i=ps,figma" alt="Creative tools" />
 
-</p>
+<br><br>
 
-<p align="center">
-Video Editing • UI Experimentation • Creative Tooling • RPG-inspired Interfaces
-</p>
+`Video Editing` &nbsp;·&nbsp; `UI Experimentation` &nbsp;·&nbsp; `Creative Tooling` &nbsp;·&nbsp; `RPG-inspired Interfaces`
+
+</div>
 
 ---
 
 ## Featured Interests
 
--  Obsidian vault systems inspired by RPGs
--  Frontend architecture and reusable components
--  Interactive web experiences and game-inspired UI
--  Writing and worldbuilding
--  Technical content and frontend audits
+-  **Obsidian vault systems** inspired by RPGs
+-  **Frontend architecture** and reusable components
+-  **Interactive web experiences** and game-inspired UI
+-  **Writing and worldbuilding**
+-  **Technical content** and frontend audits
+
+---
 
 ## Contact
 
 <p align="center">
-   duran.juan3030@gmail.com <br>
-  Click to <a href="https://www.linkedin.com/in/DuranPX">LinkedIn</a>
-</p>
-
-<p align="center">
-  Future Portfolio • YouTube
+  <a href="mailto:duran.juan3030@gmail.com">juandaduran3030@gmail.com</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/duranpx">LinkedIn</a>
+  &nbsp;·&nbsp;
+  Portfolio coming soon
 </p>
